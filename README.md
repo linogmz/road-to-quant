@@ -9,4 +9,4 @@ This is not a course but a mix of learnings starting from 0, while referring to 
 - The Charted Financial Analyst books (and adjacent resources)
 - Few relevant paper from the industry (Thanks to quantstackexchange.com)
 
-Please feel free to collaborate as it is my first time even interacting with the command line and git to share my progress haha. It's really excited to start this adventure !
+Please feel free to collaborate as it is my first time even interacting with the command line and git to share my progress haha. It's really exciting to start this adventure !
